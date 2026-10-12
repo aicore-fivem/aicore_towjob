@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'AICORE_TowJob'
-repository 'https://github.com/0error-scripts/aicore_towjob'
+repository 'https://github.com/aicore-fivem/aicore_towjob'
 version '1.0.0'
 
 ox_lib 'locale'
